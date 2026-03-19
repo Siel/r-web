@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "r-web"
+  title: "R-cell calculator"
   navbar:
     left:
       - href: index.qmd

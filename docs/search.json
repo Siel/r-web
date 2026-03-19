@@ -2,7 +2,7 @@
   {
     "objectID": "instructions.html",
     "href": "instructions.html",
-    "title": "r-web",
+    "title": "R-cell calculator",
     "section": "",
     "text": "Install quarto (depends on your OS)\n\nMacOS: brew install quarto\n\nCreate a new quarto project:\n\nquarto create r-web\n\nSelect the kind of project, in this case I selected website\nAdd quarto-live to the project:\n\nquarto add r-wasm/quarto-live\n\ncreate live.qmd file"
   },
