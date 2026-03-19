@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "instructions.html",
+    "href": "instructions.html",
+    "title": "r-web",
+    "section": "",
+    "text": "Install quarto (depends on your OS)\n\nMacOS: brew install quarto\n\nCreate a new quarto project:\n\nquarto create r-web\n\nSelect the kind of project, in this case I selected website\nAdd quarto-live to the project:\n\nquarto add r-wasm/quarto-live\n\ncreate live.qmd file"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "r-web",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nGo to live"
+  },
+  {
+    "objectID": "live.html",
+    "href": "live.html",
+    "title": "This is a header",
+    "section": "",
+    "text": "This is a header"
+  }
+]
